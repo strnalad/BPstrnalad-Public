@@ -1,5 +1,5 @@
 # BPstrnalad-Public
-Věřejná hratelná verze prototypu 2D budovatelské hra vytvořeného v rámci BP "Rogue planet: využití multiagentních systémů ve 2D hře".
+Věřejná hratelná verze prototypu 2D budovatelské hry vytvořeného v rámci BP "Rogue planet: využití multiagentních systémů ve 2D hře".
 Pro hraní stáhněte celý repozitář a spusťte soubor "Rogue planet 1.3.1/BPstrnalad.exe".
   
   
